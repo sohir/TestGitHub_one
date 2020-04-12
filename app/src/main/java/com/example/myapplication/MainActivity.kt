@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         val a :Int = 3
         val b:Int = 6
         val result: Int = a +b
+        val resultBy: Int = a*b
     }
 }
